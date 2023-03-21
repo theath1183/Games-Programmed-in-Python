@@ -1,0 +1,42 @@
+An Introduction to Programming in Python (Part 1)
+“Rock-Paper-Scissor-Lizard-Spock” – A simulator that runs 5 games of RPSLS that can accurately identify the winner.
+
+https://py2.codeskulptor.org/#user48_AjzsBg4Zfn_1.py
+
+
+
+“Guess the Number” – Difficulty can be selected (easy or hard). The player is given a limited number of tries to guess a number between 1 and 100 (on easy) or 1 and 1000 (hard).
+
+https://py2.codeskulptor.org/#user48_PkXn8JSfxcP042g.py
+
+
+
+“Stopwatch: The Game” – Player decides when to Start and Stop (or Reset) the stopwatch. If the player stops it when the decimal is 0, they score a point. Display in top right is read as “points/tries”.
+
+https://py2.codeskulptor.org/#user48_8NntRbhymgMV1zM.py
+
+
+
+“Pong” – Two player game. Each player controls one of the paddles (w/s and up arrow/down arrow for up/down for each player. Game is first to 5.
+
+https://py2.codeskulptor.org/#user48_sj2CTUR9bI_2.py
+
+
+
+An Introduction to Programming in Python (Part 2)
+“Memory” – A matching game that counts the number of turns it takes for you to match all tiles.
+
+https://py2.codeskulptor.org/#user48_jquxnAx2sj_2.py
+
+
+
+“Blackjack” – Blackjack with basic functionality (hit, stand, and deal).
+
+https://py2.codeskulptor.org/#user48_XOMHs3p1Co_0.py
+
+
+
+“Rice Rocks” – An Asteroid clone. Use arrow keys to move and space bar to shoot.
+
+https://py2.codeskulptor.org/#user48_8a26xkNzN9_0.py
+
